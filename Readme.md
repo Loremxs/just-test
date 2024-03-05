@@ -3,4 +3,6 @@
 3. git commit -m "comment
 4. git log / git log --oneline
 5. git push [rep_link] [branch_name]
-6. 
+6. git reset - убирает файл из промежуточной области
+7. git diff - отличие прошлых версий
+8. git reset --hard - отмена всех изменений
